@@ -1,0 +1,18 @@
+.bg-color {
+    background-color: #08D9D6;
+}
+.text-red {
+    color: rgb(255,255,255);
+}
+body {
+    font-family: cursive;
+}
+.Copyright {
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+.Card3 {
+    background-color: black;
+    color: red;
+}
